@@ -1,7 +1,6 @@
 +++
 title = "License"
 weight = 4294967295
-slug = "license"
 +++
 
 ## Creative Commons Attribution-ShareAlike 4.0 International
